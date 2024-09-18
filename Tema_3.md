@@ -255,7 +255,7 @@ number = int(input("Введите целое число: "))
 print(number)
 ```
 ### Результат.
-![Меню](pic/Sam_3.png)
+![Меню](pic/Samm_3.png)
 
 ## Выводы
 
