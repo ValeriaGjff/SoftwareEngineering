@@ -252,7 +252,7 @@ str = "Hello World"[::-1]
 print(*str, sep='\n')
 ```
 ### Результат.
-![Меню](pic/Samm_2.png)
+![Меню](pic/Sam_2.png)
 
 ## Выводы
 
@@ -272,7 +272,7 @@ if num >= 0 and num <= 10:
         print("от 6 до 10")
 ```
 ### Результат.
-![Меню](pic/Samm_3.png)
+![Меню](pic/Sam_3.png)
 
 ## Выводы
 
