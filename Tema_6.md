@@ -130,7 +130,7 @@ print("Список чисел:", numlist)
 print("Кортеж чисел:", numtuple)
 ```
 ### Результат.
-![Меню](pic/Sam_1.png)
+![Меню](pic/sam_1.png)
 
 ## Выводы
 
@@ -161,7 +161,7 @@ print(remove_first_occurrence((1, 2, 3, 1, 2, 3, 4, 5, 2, 3, 4, 2, 4, 2),3))
 print(remove_first_occurrence((2, 4, 6, 6, 4, 2), 9)) 
 ```
 ### Результат.
-![Меню](pic/Sam_2.png)
+![Меню](pic/sam_2.png)
 
 ## Выводы
 
@@ -189,7 +189,7 @@ result = count_digits(sequence)
 print(result)
 ```
 ### Результат.
-![Меню](pic/Sam_3.png)
+![Меню](pic/sam_3.png)
 
 ## Выводы
 
@@ -228,7 +228,7 @@ print(find_employee_range((1, 8, 3, 4, 8, 8, 9, 2), 8))
 print(find_employee_range((1, 2, 8, 5, 1, 2, 9, 8), 8))
 ```
 ### Результат.
-![Меню](pic/Sam_4.png)
+![Меню](pic/sam_4.png)
 
 ## Выводы
 
@@ -255,7 +255,7 @@ result3 = marks(test3)
 print(f"Тест 3: {test3}, Средняя оценка: {result3}")
 ```
 ### Результат.
-![Меню](pic/Sam_5.png)
+![Меню](pic/sam_5.png)
 
 ## Выводы
 
